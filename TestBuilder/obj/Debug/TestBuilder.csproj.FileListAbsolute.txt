@@ -1,0 +1,6 @@
+D:\Alteryx Training\install\riley\TestBuilder\TestBuilder\obj\Debug\TestBuilder.csprojResolveAssemblyReference.cache
+D:\Alteryx Training\install\riley\TestBuilder\TestBuilder\bin\Debug\TestBuilder.exe.config
+D:\Alteryx Training\install\riley\TestBuilder\TestBuilder\bin\Debug\TestBuilder.exe
+D:\Alteryx Training\install\riley\TestBuilder\TestBuilder\bin\Debug\TestBuilder.pdb
+D:\Alteryx Training\install\riley\TestBuilder\TestBuilder\obj\Debug\TestBuilder.exe
+D:\Alteryx Training\install\riley\TestBuilder\TestBuilder\obj\Debug\TestBuilder.pdb
